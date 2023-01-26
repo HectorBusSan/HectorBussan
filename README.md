@@ -14,8 +14,8 @@
 </div>
 <hr/>
 <div id=footer align ="center">
-    <a src="https://www.linkedin.com/in/hector-bustos-sanchez-lsca/">
-        <img src="https://img.shields.io/badge/-Linkedin-blue"/>
+    <a src="https://www.linkedin.com/in/hector-bustos-sanchez-lsca/" background="#0a66c2" borderradius="1rem">
+        Linkedin
     </a>
 <div>
 
