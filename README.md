@@ -4,4 +4,6 @@
     <p>Development Software Junior</p>
 </div>
 
-[linkedin].(https://www.linkedin.com/in/hector-bustos-sanchez-lsca/)
+<div id=footer align ="center">
+    [linkedin].(https://www.linkedin.com/in/hector-bustos-sanchez-lsca/)
+<div>
