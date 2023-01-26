@@ -11,9 +11,8 @@
     <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"/>
     <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
     <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"/>
-    
 </div>
 <div id=footer align ="center">
-    [linkedin].(https://www.linkedin.com/in/hector-bustos-sanchez-lsca/)
+    <a src="https://www.linkedin.com/in/hector-bustos-sanchez-lsca/">Linkedin</a>
 <div>
 
