@@ -12,10 +12,9 @@
     <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
     <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"/>
 </div>
-<hr/>
-<div id=footer align ="center">
-    <a src="https://www.linkedin.com/in/hector-bustos-sanchez-lsca/" background="#0a66c2" borderradius="1rem">
-        Linkedin
-    </a>
-<div>
+<div align="center">
+    <div>
+        <a href="https://www.linkedin.com/in/hector-bustos-sanchez-lsca/">Linkedin</a>
+    </div>
+</div>
 
