@@ -15,6 +15,7 @@
 <hr/>
 <div id=footer align ="center">
     <a src="https://www.linkedin.com/in/hector-bustos-sanchez-lsca/">
-    <img width="20px"src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/></a>
+        <img src="https://img.shields.io/badge/-Linkedin-blue"/>
+    </a>
 <div>
 
