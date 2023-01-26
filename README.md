@@ -13,6 +13,7 @@
     <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"/>
 </div>
 <div id=footer align ="center">
-    <a src="https://www.linkedin.com/in/hector-bustos-sanchez-lsca/">Linkedin</a>
+    <a src="https://www.linkedin.com/in/hector-bustos-sanchez-lsca/">
+    <img width="20px"src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/></a>
 <div>
 
