@@ -17,4 +17,9 @@
         <a href="https://www.linkedin.com/in/hector-bustos-sanchez-lsca/">Linkedin</a>
     </div>
 </div>
-
+<hr/>
+<div align="center">
+    <h3>Proyectos Principales Javascript:</h3>
+    <a href="https://github.com/HectorBusSan/Cake">Aplicación ReactNative Cakes</a><br/>
+    <a href="https://github.com/HectorBusSan/FullJavascript">Aplicación Full Stack</a><br/>
+</div>
