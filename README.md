@@ -22,6 +22,7 @@
     <h3>Proyectos Principales Javascript:</h3>
     <a href="https://github.com/HectorBusSan/Cake">Aplicación ReactNative Cakes</a><br/>
     <a href="https://github.com/HectorBusSan/FullJavascript">Aplicación Full Stack</a><br/>
+    <a href="https://github.com/HectorBusSan/Client-LaunchX.git">Vue y Express</a><br/>
 </div>
 <div align="center">
     <h3>Proyectos Principales Desing:</h3>
