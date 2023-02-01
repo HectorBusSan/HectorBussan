@@ -23,3 +23,9 @@
     <a href="https://github.com/HectorBusSan/Cake">Aplicación ReactNative Cakes</a><br/>
     <a href="https://github.com/HectorBusSan/FullJavascript">Aplicación Full Stack</a><br/>
 </div>
+<div align="center">
+    <h3>Proyectos Principales Desing:</h3>
+    <a href="https://hectorbussan.github.io/Clothing/">Shopping</a><br/>
+    <a href="https://hectorbussan.github.io/Halloween/">Halloween</a><br/>
+</div>
+
