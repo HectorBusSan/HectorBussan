@@ -4,6 +4,16 @@
     <p>Software Developer</p>
 </div>
 <div id=skills align="center">
+    <h2>Professional Experience/Skills:</h3>
+    <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"/>
+    <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"/>
+    <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg"/>
+    <img width="50px" src="https://icon.icepanel.io/AWS/svg/Database/Neptune.svg"/>
+    <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
+    <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
+    <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"/>
+    <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"/>
+    <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg"/>
     <h3>Bachelor Experience:</h3>
     <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
     <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
