@@ -4,6 +4,8 @@
     <p>Software Developer</p>
 </div>
 <div id=skills align="center">
+    <h2>Strongest Skill:</h3>
+    <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"/>
     <h2>Professional Experience/Skills:</h3>
     <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"/>
     <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"/>
