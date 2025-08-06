@@ -4,6 +4,7 @@
     <p>Software Developer</p>
 </div>
 <div id=skills align="center">
+    <h3>Bachelor Experience:</h3>
     <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
     <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
     <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
@@ -11,6 +12,8 @@
     <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"/>
     <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
     <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"/>
+    <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
+    <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"/>
 </div>
 <div align="center">
     <div>
